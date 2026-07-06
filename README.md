@@ -1,5 +1,5 @@
 # movie-site-source
-create your own custom movie site for free and 100% open sourced
+create your own custom movie site for free and open sourced
 with no ads so you can enjoy streaming for free
 
 # setup
